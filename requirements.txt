@@ -1,0 +1,7 @@
+# No external dependencies required for basic functionality
+# For development:
+crewai>=0.11.0
+python-dotenv>=1.0.0
+pytest>=7.0.0
+black>=22.0.0
+mypy>=0.950 
